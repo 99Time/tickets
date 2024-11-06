@@ -1,0 +1,14 @@
+{
+    "config_principais":
+    {
+        "cargo_staff":"1208813758567157771",
+        "channel_logs":"1208813927069384795",
+        "channel_avaliation":"1208814010468671508",
+        "category_ticket":"1206052640954392578"
+        },
+        "config_dentro":
+        {
+            "thumbnail":"https://cdn.discordapp.com/icons/1207376189875036180/f5494366e055b79d2bdd50eb11408334.png?size=2048",
+            "texto":"👥 **| Usuario:** {user} \n\n💻 **| Motivo do Ticket:** {motivo}  \n\n 🔐** | Codigo Ticket: {codigo} ** \n\n🔰 **| Informações:** __*Seja Bem Vindo para seu Ticket! Espere até que um **STAFF** lhe atenda, Evite de Marcar varias vezes para evitar punições!*__ \n\n 🧰 **| Ticket Assumido: **{assumido}"
+        }
+}

@@ -1,0 +1,20 @@
+{
+  "701494775060103300": [
+    {
+      "dono_ticket": "701494775060103300",
+      "fechou_ticket": "701494775060103300",
+      "assumido": "701494775060103300",
+      "motivo": "Teste",
+      "codigo": "477854"
+    }
+  ],
+  "1153759429024559256": [
+    {
+      "dono_ticket": "1153759429024559256",
+      "fechou_ticket": "701494775060103300",
+      "assumido": "Ninguem Assumiu",
+      "motivo": "GAY",
+      "codigo": "BF57CD"
+    }
+  ]
+}
